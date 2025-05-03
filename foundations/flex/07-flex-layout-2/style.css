@@ -57,7 +57,7 @@ body {
 
 .card {
   width: 300px;
-  flex: none;
+  flex: none; /*dit was blijkbaar niet nodig*/
   padding: 16px;
 }
 
